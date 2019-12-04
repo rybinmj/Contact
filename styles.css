@@ -46,11 +46,11 @@ nav > ul > li > a {
 }
 
 .row {
-  display: flex;
+    display: flex;
 }
 
 .column {
-  flex: 50%;
+    flex: 50%;
 }
 
 
@@ -65,14 +65,14 @@ nav > ul > li > a {
 }
 
 hr {
-width: 75%;
-height: 3px;
-background-color: black;
-margin-right: auto;
-margin-left: auto;
-margin-top: 5px;
-margin-bottom: 50px;
-border: 0;
+    width: 75%;
+    height: 3px;
+    background-color: black;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5px;
+    margin-bottom: 50px;
+    border: 0;
 }
 
 .iframe-container {
@@ -109,7 +109,6 @@ border: 0;
     height: 70vh;
     overflow: visible;
     border: 0;
-
 }
 
 #headshot {
